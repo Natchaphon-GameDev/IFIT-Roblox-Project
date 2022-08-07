@@ -16,21 +16,20 @@
     <br />
   </p>
 
-## TABLE OF CONTENT
-
-- [**The Challenge** (โจทย์ที่ได้รับ)](#the-challenge-)
-- [**My Work** (งานที่ทำ) 🎓](#my-work-)
-- [**Skill** 📖](#skill-)
-- [**Languages** 🔡](#languages-)
-- [**My Game Showcase** 🎮](#my-game-showcase-)
-
-- ### PERSONAL INFORMATION
+## PERSONAL INFORMATION
   - Name | Natchaphon Sirisangsawang
   - NickName | Pruek (พฤกษ์)
   - BirthDate | July 6, 2000
   - Nationality | Thai
 
-## <span style="color: yellow"> THE CHALLENGE </span> 👨‍💻
+## TABLE OF CONTENT
+
+- [**The Challenge** (โจทย์ที่ได้รับ) 👨‍💻](#the-challenge-)
+- [**My Work** (งานที่ทำ) 🎮](#my-work-)
+- [**Other Activity During IFIT** (กิจกรรม/งานอื่น ระหว่าง IFIT) 🎓](#other-activity-during-ifit-)
+- [**Skills** (skill ที่ได้พัฒนา) 📖](#skills-)
+
+## THE CHALLENGE 👨‍💻
 
 - ### Main Challenge Received
 <pre>
@@ -292,3 +291,42 @@ Challenge : Coding Thinking Zone
   </tr>
 
 </table>
+
+## Other Activity During IFIT 🎮
+<table>
+ <tr>
+    <td align="center">
+        <img src="Pic/Activity1.png" width="1000px" alt="" />
+        <br />
+        <sub><b>Joint the FIT Game Jam 2022 by The Fine Arts Department, Ministry of Culture</b></sub>
+<br><br>      
+<br />
+    <img src="Pic/Activity2.png" width="1000px" alt="" />
+        <br />
+        <sub><b>Roblox Workshop Class - Tech the kid about basic Lua Programming</b></sub>
+      <br />
+<br><br>
+<img src="Pic/Activity3.png" width="500px" alt="" />
+        <br />
+        <sub><b>Study EC200 & FIP141</b></sub>
+      <br /><br>
+</table>
+
+## Skills 📖
+
+###<span style="color: Orange"> Improvement Skills </span>
+<pre>
+<span style="color: White"> { | } = 1 Improve Point : Max = { ||||| }  </span>
+</pre>
+- ### { ||||| } Lua Language 
+- ### { ||||| } Roblox Studio 
+- ### { |||| } Creativity
+- ### { || } Management
+- ### { ||| } Collaboration
+- ### { ||| } Adaptability 
+- ### { | } HTML Language 
+- ### { || } English Language 
+
+
+
+
