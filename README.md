@@ -1,19 +1,27 @@
-# IFIT-Roblox-Project
-Presentation about my internship Project that about Roblox Learning Environment in Summer Year3
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <h1 align="center">Natchaphon Sirisangsawang's Roblox IFIT Portfolio</h1>
 
   <p align="center">
-    Natchaphon Sirisangsawang website/portfolio : 
-    <a href="http://mit.itu.bu.ac.th/th/people/master-phd-students/item/107-%3Cthai%3E-%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%9E%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-%7B-thai%7D%3Ceng%3E-natchaphon-sirisangsawang-%7B-eng%7D">My Port on BUMIT Website✨</a>
+   Information about my internship Project about Roblox Learning Environment in Summer Year3 
+    <br> <a href="http://mit.itu.bu.ac.th/th/people/master-phd-students/item/107-%3Cthai%3E-%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%9E%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-%7B-thai%7D%3Ceng%3E-natchaphon-sirisangsawang-%7B-eng%7D">
+    🌐 My Personal Information on BUMIT Website</a> 🌐
     <br />
     <br />
   </p>
 
 [![Site preview](/Pic/MyPic.png)](http://mit.itu.bu.ac.th/th/people/master-phd-students/item/107-%3Cthai%3E-%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%9E%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-%7B-thai%7D%3Ceng%3E-natchaphon-sirisangsawang-%7B-eng%7D)
+
+<style>
+  div {
+    text-align: center;
+  }
+</style>
+
+<div>
+  <img src="Pic/MyPic.png">
+</div>
 
 ## TABLE OF CONTENT
 
