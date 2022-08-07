@@ -298,7 +298,7 @@ Challenge : Coding Thinking Zone
     <td align="center">
         <img src="Pic/Activity1.png" width="1000px" alt="" />
         <br />
-        <sub><b>Joint the FIT Game Jam 2022 by The Fine Arts Department, Ministry of Culture</b></sub>
+        <sub><b>Joined the FIT Game Jam 2022 by The Fine Arts Department, Ministry of Culture</b></sub>
 <br><br>      
 <br />
     <img src="Pic/Activity2.png" width="1000px" alt="" />
@@ -308,7 +308,7 @@ Challenge : Coding Thinking Zone
 <br><br>
 <img src="Pic/Activity3.png" width="500px" alt="" />
         <br />
-        <sub><b>Study EC200 & FIP141</b></sub>
+        <sub><b>Studied EC200 & FIP141</b></sub>
       <br /><br>
 </table>
 
