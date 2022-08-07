@@ -108,7 +108,7 @@ Challenge : Coding Thinking Zone
     <td align="">
 <pre>
 
-###<span style="color: White"> Console system </span>
+### <span style="color: White"> Console system </span>
 - Lesson Reference
   - Get & setup dialog logic
 - Code checker
