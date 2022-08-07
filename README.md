@@ -64,8 +64,6 @@ Challenge : Coding Thinking Zone
 ### Coding Zone 
     Work Progress 90% [5% for hint system , 5% for find and debug everything] 
 
-
-
 <table>
 
 [//]: # (Line1)
@@ -201,4 +199,96 @@ Challenge : Coding Thinking Zone
 </table>
 
 ### Logical Zone
-    Work Progress 70% [25% for Block of code system , 5% for find and debug everything]
+    Work Progress 65% [30% for Block of code system , 5% for find and debug everything]
+
+<table>
+
+[//]: # (Line1)
+ <tr>
+    <td align="center">
+        <img src="Pic/Logic1.gif" width="500px" alt="" />
+        <br />
+        <sub><b>Block of code system</b></sub>
+      <br />
+    </td>
+    <td align="">
+<pre>
+
+###<span style="color: White"> Block of code system </span>
+- Block of code Sorting logic
+  - instance & destroy block
+  - Auto sorting block system by pos
+  - Compute all block value in the board
+- Swap block logic
+  - Find index of swapping block
+  - Instance new sorted block instead of old block
+  - Setup repeat block for before swapped
+- Repeat Block
+  - Insert & remove block in repeat block
+  - Compute block value in repeat block
+  - Loop amount control
+  
+</pre>
+  </tr>
+
+[//]: # (Line2)
+ <tr>
+    <td align="center">
+        <img src="Pic/Logic2.gif" width="500px" alt="" />
+        <br />
+        <sub><b>Camera Mode</b></sub>
+      <br />
+    </td>
+    <td align="">
+<pre>
+
+###<span style="color: White"> Camera Mode </span>
+- Camera Changer
+  - Disable player controller when on the board cam
+  - Block Raycast limit
+  - Task goal : Camera capture the dummy when run the code
+
+</pre>
+  </tr>
+
+[//]: # (Line3)
+ <tr>
+    <td align="center">
+        <img src="Pic/Logic3.gif" width="500px" alt="" />
+        <br />
+        <sub><b>Grid system</b></sub>
+      <br />
+    </td>
+    <td align="">
+<pre>
+
+###<span style="color: White"> Grid system </span>
+- Grid Generator
+  - Instance grid logic
+  - Sorting and separate each grid to row and column
+  - Grid surface GUI
+
+</pre>
+  </tr>
+
+[//]: # (Line4)
+ <tr>
+    <td align="center">
+        <img src="Pic/Logic4.gif" width="500px" alt="" />
+        <br />
+        <sub><b>Block Command</b></sub>
+      <br />
+    </td>
+    <td align="">
+<pre>
+
+###<span style="color: White"> Block Command </span>
+- Move Command
+  - Use raycast to find next & current Grid that dummy stand on
+  - Move Forward
+  - Turn Left & Right
+
+</pre>
+  </tr>
+
+</table>
