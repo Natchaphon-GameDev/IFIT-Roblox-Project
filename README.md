@@ -142,7 +142,7 @@ Challenge : Coding Thinking Zone
     <td align="">
 <pre>
 
-###<span style="color: White"> Floor & Elevator system </span>
+### <span style="color: White"> Floor & Elevator system </span>
 - Multi floor teleport logic
   - Relate with each player exam data
   - Lock and unlock the floor
@@ -166,7 +166,7 @@ Challenge : Coding Thinking Zone
     <td align="">
 <pre>
 
-###<span style="color: White"> Instance part system </span>
+### <span style="color: White"> Instance part system </span>
   - Client instantiates relate with exam data
   - Camera capture result
   - Clear instance part when changing the floor
@@ -186,7 +186,7 @@ Challenge : Coding Thinking Zone
     <td align="">
 <pre>
 
-###<span style="color: White"> Leaderboard system </span>
+### <span style="color: White"> Leaderboard system </span>
 - Relate with each player exam data
 - Show the exam(floor) that each player is on.
 - Show the exam(floor) that each player can reach
@@ -213,7 +213,7 @@ Challenge : Coding Thinking Zone
     <td align="">
 <pre>
 
-###<span style="color: White"> Block of code system </span>
+### <span style="color: White"> Block of code system </span>
 - Block of code Sorting logic
   - instance & destroy block
   - Auto sorting block system by pos
@@ -241,7 +241,7 @@ Challenge : Coding Thinking Zone
     <td align="">
 <pre>
 
-###<span style="color: White"> Camera Mode </span>
+### <span style="color: White"> Camera Mode </span>
 - Camera Changer
   - Disable player controller when on the board cam
   - Block Raycast limit
@@ -261,7 +261,7 @@ Challenge : Coding Thinking Zone
     <td align="">
 <pre>
 
-###<span style="color: White"> Grid system </span>
+### <span style="color: White"> Grid system </span>
 - Grid Generator
   - Instance grid logic
   - Sorting and separate each grid to row and column
@@ -281,7 +281,7 @@ Challenge : Coding Thinking Zone
     <td align="">
 <pre>
 
-###<span style="color: White"> Block Command </span>
+### <span style="color: White"> Block Command </span>
 - Move Command
   - Use raycast to find next & current Grid that dummy stand on
   - Move Forward
