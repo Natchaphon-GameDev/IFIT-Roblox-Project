@@ -4,33 +4,58 @@ Presentation about my internship Project that about Roblox Learning Environment 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Natchaphon Sirisangsawang's Portfolio</h1>
+  <h1 align="center">Natchaphon Sirisangsawang's Roblox IFIT Portfolio</h1>
 
   <p align="center">
     Natchaphon Sirisangsawang website/portfolio : 
-    <a href="https://natchaphon-gamedev.github.io/Portfolio/">Natchaphon React Portfolio || Template by hashirshoaeb✨</a>
+    <a href="http://mit.itu.bu.ac.th/th/people/master-phd-students/item/107-%3Cthai%3E-%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%9E%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-%7B-thai%7D%3Ceng%3E-natchaphon-sirisangsawang-%7B-eng%7D">My Port on BUMIT Website✨</a>
     <br />
     <br />
   </p>
 
-[![Site preview](/public/social-image.png)](https://natchaphon-gamedev.github.io/Portfolio/)
+[![Site preview](/Pic/MyPic.png)](http://mit.itu.bu.ac.th/th/people/master-phd-students/item/107-%3Cthai%3E-%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%9E%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-%7B-thai%7D%3Ceng%3E-natchaphon-sirisangsawang-%7B-eng%7D)
 
 ## TABLE OF CONTENT
 
-- [About me 👨‍💻](#about-me-)
-- [Education 🎓](#education-)
+- [The Challenge (โจทย์ที่ได้รับ)](#the-challenge-)
+- [My Work (งานที่ทำ) 🎓](#my-work-)
 - [Skill 📖](#skill-)
 - [Languages 🔡](#languages-)
 - [My Game Showcase 🎮](#my-game-showcase-)
 
-## ABOUT ME 👨‍💻
-
 - ### PERSONAL INFORMATION
   - Name | Natchaphon Sirisangsawang
-  - NickName | Pruek (พฤกษ)
+  - NickName | Pruek (พฤกษ์)
   - BirthDate | July 6, 2000
   - Nationality | Thai
 
+## <span style="color: yellow"> THE CHALLENGE </span> 👨‍💻
+
+- ### Main Challenge
+<pre>
+สร้างสื่อการเรียนรู้สำหรับเด็ก โดยใช้ Platform Roblox เป็นสื่อการเรียนการสอน 
+เพื่อให้เด็กๆเข้าใจในหลักของการพัฒนาสื่อเชิงโต้ตอบ หรือการสร้างเกมเบื้องต้น
+เเละสามารถนำความรู้ เเละความสนุกที่ได้รับ ไปต่อยอดในอนาคต
+</pre>
+
+- ### Personal Challenge received
+<pre>
+Challenge : Logical Thinking Zone
+
+สร้างเกมเเนวสื่อการเรียนรู้เกี่ยวกับ เรื่อง: Logical Thinking (การคิดอย่างมีตรรกะ) เพื่อให้น้องๆ
+ได้เรียนรู้เกี่ยวกับการคิดเเบบมีตรรกะเพื่อนำไปต่อยอดกับการเขียนโปรเเกรมในการสร้างเกม หรือ Inovation อื่นๆ ในอนาคต
+โดยใช้สื่อการสอนเเบบ Block of Code ที่จะไม่ได้ให้เด็กมาลงมือเขียน Code จริงๆเเต่จะใช้เป็นการสื่อสารด้วยภาพเเละการเคลื่อนไหว
+ของ ตัวละครในเกมที่เด็กสามารถเข้าใจได้ง่ายกว่าตัวอักษร
+</pre>
+
+<pre>
+Challenge : Coding Thinking Zone
+
+สร้างเกมเเนวสื่อการเรียนรู้เกี่ยวกับ เรื่อง: Coding (การเขียนโค้ด) โดยจะสอน Lua ภาษาที่ใช้ในการพัฒนาเกท Roblox เป็นหลัก
+ได้เรียนรู้เกี่ยวกับการคิดเเบบมีตรรกะเพื่อนำไปต่อยอดกับการเขียนโปรเเกรมในการสร้างเกม หรือ Inovation อื่นๆ ในอนาคต
+โดยใช้สื่อการสอนเเบบ Block of Code ที่จะไม่ได้ให้เด็กมาลงมือเขียน Code จริงๆเเต่จะใช้เป็นการสื่อสารด้วยภาพเเละการเคลื่อนไหว
+ของ ตัวละครในเกมที่เด็กสามารถเข้าใจได้ง่ายกว่าตัวอักษร
+</pre>
 
 - ### MY OBJECTIVE
   - To get more experience and technic in Game Development.
@@ -52,7 +77,7 @@ Presentation about my internship Project that about Roblox Learning Environment 
     game ever!
   - I'm glad to see happiness from people playing games I've developed.
 
-## EDUCATION 🎓
+## <span style="color: green"> MY WORK </span> 🎓
 
 - ### HIGH SCHOOL
 
