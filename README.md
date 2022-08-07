@@ -11,25 +11,26 @@
     <br />
   </p>
 
-[![Site preview](/Pic/MyPic.png)](http://mit.itu.bu.ac.th/th/people/master-phd-students/item/107-%3Cthai%3E-%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%9E%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-%7B-thai%7D%3Ceng%3E-natchaphon-sirisangsawang-%7B-eng%7D)
 
-<style>
-  div {
-    text-align: center;
-  }
-</style>
+<p align="center">
 
-<div>
-  <img src="Pic/MyPic.png">
-</div>
+[![Site preview](/Pic/MyPic.png)]
+
+</p>
+
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="Pic/MyPic.png"/>)
+
+[//]: # (</p>)
 
 ## TABLE OF CONTENT
 
-- [The Challenge (โจทย์ที่ได้รับ)](#the-challenge-)
-- [My Work (งานที่ทำ) 🎓](#my-work-)
-- [Skill 📖](#skill-)
-- [Languages 🔡](#languages-)
-- [My Game Showcase 🎮](#my-game-showcase-)
+- [**The Challenge** (โจทย์ที่ได้รับ)](#the-challenge-)
+- [**My Work** (งานที่ทำ) 🎓](#my-work-)
+- [**Skill** 📖](#skill-)
+- [**Languages** 🔡](#languages-)
+- [**My Game Showcase** 🎮](#my-game-showcase-)
 
 - ### PERSONAL INFORMATION
   - Name | Natchaphon Sirisangsawang
@@ -39,14 +40,14 @@
 
 ## <span style="color: yellow"> THE CHALLENGE </span> 👨‍💻
 
-- ### Main Challenge
+- ### Main Challenge Received
 <pre>
 สร้างสื่อการเรียนรู้สำหรับเด็ก โดยใช้ Platform Roblox เป็นสื่อการเรียนการสอน 
 เพื่อให้เด็กๆเข้าใจในหลักของการพัฒนาสื่อเชิงโต้ตอบ หรือการสร้างเกมเบื้องต้น
 เเละสามารถนำความรู้ เเละความสนุกที่ได้รับ ไปต่อยอดในอนาคต
 </pre>
 
-- ### Personal Challenge received
+- ### Personal Challenge Received
 <pre>
 Challenge : Logical Thinking Zone
 
@@ -124,80 +125,116 @@ Challenge : Coding Thinking Zone
 - #### English ========== Good
 
 
-## MY GAME SHOWCASE 🎮
+## MY WORK 🎮
 
-This is a game that my team and I used to develop during college, Years 1-3.
+#### This is my job learning Lua and started developing with Roblox Studio in the 3 months.
 
-🏆 => Submit to competition & Won or Enter the final!
+<pre>
+Coding Zone 
+=== Progress 90 % ===
+</pre>
 
 <table>
+
+[//]: # (Line1)
   <tr>
     <td align="center">
-      <a href="https://tatiya.itch.io/when">
-        <img src="READMEdocs/When.gif" width="450px" alt="" />
+      <a href="">
+        <img src="Pic/Code1.png" width="500px" alt="" />
         <br />
-        <sub><b>🏆🏆 When <br /> MAIN PROGRAMMER / RIGGER</b></sub>
+        <sub><b>Design infastructure of building</b></sub>
       </a>
       <br />
     </td>
     <td align="center">
-      <a href="https://tatiya.itch.io/aibo">
-        <img src="READMEdocs/AIBO.gif" width="450px" alt="" />
+      <a href="">
+        <img src="Pic/Code2.png" width="500px" alt="" />
         <br />
-        <sub><b>🏆 AiBō 「あいぼう」<br /> MAIN PROGRAMMER / SUB LEVEL
-DESIGN</b></sub>
-      </a>
-      <br />
-    </td>
-</tr>
-<tr>
-    <td align="center">
-      <a href="https://natchaphondev.itch.io/kaid">
-        <img src="READMEdocs/KAID.gif" width="450px" alt="" />
-        <br />
-        <sub><b>KAI Defend <br /> MAIN PROGRAMMER / PROJECT DIRECTOR /
-GAME DESIGNER</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://natchaphondev.itch.io/a-taxi">
-        <img src="READMEdocs/Taxi.gif" width="500px" alt="" />
-        <br />
-        <sub><b>A Taxi <br />  MAIN PROGRAMMER /
-GAME DESIGNER</b></sub>
-      </a>
-      <br />
-    </td>
-</tr>
-<tr>
-    <td align="center">
-      <a href="https://natchaphondev.itch.io/time2race">
-        <img src="READMEdocs/Time2race.gif" width="450px" alt="" />
-        <br />
-        <sub><b>Time2Race <br /> MAIN PROGRAMMER / PROJECT DIRECTOR /
-GAME DESIGNER </b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://natchaphondev.itch.io/spaceship">
-        <img src="READMEdocs/Space.gif" width="450px" alt="" />
-        <br />
-        <sub><b>SpaceShip <br /> SOLO PROJECT</b></sub>
+        <sub><b>Design UI for console</b></sub>
       </a>
       <br />
     </td>
   </tr>
-  <tr>
+
+[//]: # (Line2)
+<tr>
     <td align="center">
-      <a href="https://natchaphondev.itch.io/zombie-hunter">
-        <img src="READMEdocs/ZombieHunter.gif" width="500px" alt="" />
+      <a href="">
+        <img src="Pic/Code6.png" width="400px" alt="" />
         <br />
-        <sub><b>Zombie Hunter <br />  MAIN PROGRAMMER /
-GAME DESIGNER</b></sub>
+        <sub><b>Design Elevator UI</b></sub>
       </a>
       <br />
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="Pic/Code7.png" width="350px" alt="" />
+        <br />
+        <sub><b>Decorate the Coding tower</b></sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+
+[//]: # (Line3)
+  <tr>
+    <td align="center">
+      <a href="">
+        <img src="Pic/Code4.gif" width="500px" alt="" />
+        <br />
+        <sub><b>Console system</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="">
+<pre>
+
+###<span style="color: White"> Console system </span>
+- Instance & destroy line logic
+- Code checker
+  - Single-line
+  - Multi-line
+- Get error line
+  - Show hint system
+- Exam tracking logic
+  - Relate with leaderboard system
+  - Clear & reset console when exam changed
+  - Change Lesson & information Text when exam changed
+- Text box controller
+  - Track current line
+  - Limiter char each line
+  - Arrow key to control
+  - Line switching with backspace & enter
+- Open Console UI
+  - Disable player controller while Typing
+</pre>
+  </tr>
+
+[//]: # (Line4)
+ <tr>
+    <td align="center">
+      <a href="">
+        <img src="Pic/Code5.gif" width="500px" alt="" />
+        <br />
+        <sub><b>Console system</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="">
+<pre>
+
+###<span style="color: White"> Floor & Elevator system </span>
+- Multi floor teleport logic
+  - Relate with leaderboard system
+  - Lock and unlock the floor
+  - Instance Ui Elevator button logic
+  - Update UI when pass the exam
+  - UI transition
+- Auto door logic
+  - Sever detector player
+
+</pre>
   </tr>
 
 </table>
+
