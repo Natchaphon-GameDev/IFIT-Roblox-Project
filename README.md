@@ -205,7 +205,7 @@ Challenge : Coding Zone
 [//]: # (Line1)
  <tr>
     <td align="center">
-        <img src="Pic/Logic1.gif" width="500px" alt="" />
+        <img src="Pic/Updateworks/Swaping_Block.gif" width="500px" alt="" />
         <br />
         <sub><b>Block of code system</b></sub>
       <br />
@@ -233,7 +233,7 @@ Challenge : Coding Zone
 [//]: # (Line2)
  <tr>
     <td align="center">
-        <img src="Pic/Logic2.gif" width="500px" alt="" />
+        <img src="Pic/Updateworks/Cemera_Mode.gif" width="500px" alt="" />
         <br />
         <sub><b>Camera Mode</b></sub>
       <br />
@@ -273,7 +273,7 @@ Challenge : Coding Zone
 [//]: # (Line4)
  <tr>
     <td align="center">
-        <img src="Pic/Logic4.gif" width="500px" alt="" />
+        <img src="Pic/Updateworks/block_logic.gif" width="500px" alt="" />
         <br />
         <sub><b>Block Command</b></sub>
       <br />
