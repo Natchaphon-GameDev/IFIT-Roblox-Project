@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Natchaphon Sirisangsawang's Roblox IFIT Portfolio</h1>
+  <h1 align="center">Natchaphon Sirisangsawang's Roblox Internship Portfolio</h1>
 
   <p align="center">
    Information about my internship Project about Roblox Learning Environment in Summer Year3 
