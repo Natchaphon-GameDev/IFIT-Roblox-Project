@@ -245,8 +245,12 @@ Challenge : Coding Zone
 - Camera Changer
   - Disable player controller when on the board cam
   - Block Raycast limit
-  - Task goal : Camera capture the dummy when run the code
-
+  - POV and Bird eyes view mode
+- Minimap
+  - Generate Minimap according to the stage
+  - Update following the real dummy
+  - Update when destory objects or zombies
+  
 </pre>
   </tr>
 
