@@ -61,7 +61,6 @@ Challenge : Coding Zone
 #### This is my job learning Lua and started developing with Roblox Studio in the 5 months.
 
 ### Coding Zone 
-    Work Progress 90% [5% for hint system , 5% for find and debug everything] 
 
 <table>
 
@@ -198,7 +197,6 @@ Challenge : Coding Zone
 </table>
 
 ### Logical Zone
-    Work Progress 65% [30% for Block of code system , 5% for find and debug everything]
 
 <table>
 
