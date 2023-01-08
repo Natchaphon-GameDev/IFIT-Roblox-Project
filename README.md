@@ -59,7 +59,8 @@ Challenge : Coding Zone
 
 ## MY WORK 🎮
 #### This is my job learning Lua and started developing with Roblox Studio in the 5 months.
-
+[I write the Coding For Metaverse paper for my IFIT.
+](https://github.com/Natchaphon-GameDev/IFIT-Roblox-Project/files/10368665/Roblox_Coding_For_Metaverse.pdf)
 ### Coding Zone 
 
 <table>
@@ -119,6 +120,7 @@ Challenge : Coding Zone
   - Relate with leaderboard system
   - Clear & reset console when exam changed
   - Change Lesson & information Text when exam changed
+
 - Text box controller
   - Instance & destroy line logic
   - Track current line
